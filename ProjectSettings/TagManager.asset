@@ -4,7 +4,17 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - btn
+  - InputButton
+  - Lever
+  - puz
+  - color
+  - 1
+  - 0
+  - Box
+  - opener
+  - invenback
+  - Apple
+  - MagicBtn
   layers:
   - Default
   - TransparentFX

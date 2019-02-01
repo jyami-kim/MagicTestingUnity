@@ -41,7 +41,7 @@ namespace Gvr.Internal {
 
     private static void UpdateCursorLockState() {
       bool active = cachedHeadEmulationActive || cachedControllerEmulationActive;
-      Cursor.lockState = active ? CursorLockMode.Locked : CursorLockMode.None;
+   //   Cursor.lockState = active ? CursorLockMode.Locked : CursorLockMode.None;
     }
 
   }
